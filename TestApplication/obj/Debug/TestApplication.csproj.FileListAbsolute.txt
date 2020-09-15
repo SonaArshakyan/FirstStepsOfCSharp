@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\First\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Administrator\source\repos\First\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Administrator\source\repos\First\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Administrator\source\repos\First\TestApplication\obj\Debug\TestApplication.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\First\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\First\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Administrator\source\repos\First\TestApplication\obj\Debug\TestApplication.pdb
